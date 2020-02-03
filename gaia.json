@@ -113,7 +113,7 @@
     },
     "livedev": {
         "cclProgram": "mp_unified_driver",
-        "programParams": "^MINE^,18779463.0,20998484.0,40353778.0,441.0,1110.0,^powerchart.exe^,^$STATIC_CONTENT$^,^MKVP^,9",
+        "programParams": "^MINE^,18779463.0,20998484.0,40353778.0,441.0,1110.0,^powerchart.exe^,^$STATIC_CONTENT|MPAGES_23_23|MPAGES_WORKLIST_23_32$^,^MKVP^,9",
         "sourceCodeLocation": "",
         "webServiceUrl": "",
         "cssLocation": "",
