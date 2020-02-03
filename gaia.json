@@ -2,6 +2,7 @@
     "injector": {
         "settings": {
             "targetUrl": "http://localhost:8081/mil/",
+            
             "prefix": ""
         },
         "urls": {
