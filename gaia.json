@@ -113,7 +113,7 @@
     },
     "livedev": {
         "cclProgram": "mp_unified_driver",
-        "programParams": ,
+        "programParams": "",
         "sourceCodeLocation": "",
         "webServiceUrl": "",
         "cssLocation": "",
