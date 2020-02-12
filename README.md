@@ -94,9 +94,8 @@ If either of the checks fail, a comment is added to the PR indicating what's wro
 
 ## gaia-json-file-check
 
-This app attempts to automatically review gaia.json file from the pull request and check whether 
-the program parameter is in the correct format. If it is incorrect (i.e. if the programparameter includes  extra parts like `MPAGES_X_XX|MPAGES_WORKLIST_X_XX` but graybox tests will fail).
-It will reflect using statuses and comment is added to the PR indicating what's wrong and how to fix it.
+This app attempts to automatically review gaia.json file from the pull request and check whether the program parameter is in the correct format. If it is incorrect format i.e. if the program parameter includes  extra parts like `MPAGES_X_XX|MPAGES_WORKLIST_X_XX`
+it will reflect using statuses and comment is added to the PR indicating what's wrong and how to fix it.
 
 # Development Guide
 
