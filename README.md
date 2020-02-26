@@ -1,7 +1,5 @@
 
 
-A GitHub app to wrap and execute other MPages CI GitHub apps.
-
 # Contents <!-- omit in toc -->
 
 - [Current Apps](#current-apps)
