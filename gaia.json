@@ -1,5 +1,5 @@
 {
-    "injector": {
+    "injector1": {
         "settings": {
             "targetUrl": "http://localhost:8081/mil/",
             "prefix": ""
