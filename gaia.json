@@ -121,7 +121,7 @@
         "isWebpackEnabled": true,
         "isWebpackAutoRefreshEnabled": true,
         "isBedrockEnabled": false,
-        "bedrockMocksLocation": ""
+        "bedrockMocksLocation": "shubham"
     },
     "graybox-testing": {
         "testPath": "src/__tests__/functional-tests/graybox-tests/desktop",
