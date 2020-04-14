@@ -113,7 +113,22 @@
     },
     "livedev": {
         "cclProgram": "mp_unified_driver",
-        "programParams": "'MINE',18779463.0,20998484.0,40353778.0,441.0,1110.0,'powerchart.exe','$STATIC_CONTENT$|MPAGES','MKVP',9",
+        "programParams": "'MINE', 18779463.0, 20998484.0, 40353778.0, 441.0, 1110.0, 'powerchart.exe', '$STATIC_CONTENT",
+        "sourceCodeLocation": "",
+        "webServiceUrl": "",
+        "cssLocation": "",
+        "i18nLocation": "src/main/js/i18n/diagnostics-responsive-i18n.js",
+        "isWebpackEnabled": true,
+        "isWebpackAutoRefreshEnabled": true,
+        "isBedrockEnabled": false,
+        "bedrockMocksLocation": ""
+    },
+    "graybox-testing": {
+        "testPath": "src/__tests__/functional-tests/graybox-tests/desktop",
+        "target": "default"
+    }
+}
+, 'MKVP', 9",
         "sourceCodeLocation": "",
         "webServiceUrl": "",
         "cssLocation": "",
