@@ -113,7 +113,7 @@
     },
     "livedev": {
         "cclProgram": "mp_unified_driver",
-        "programParams": "\"MINE\",11111.00,22222.00, 33333.00 ,441.00 , 1109.00, \"powerchart.exe\",\"$STATIC_CONTENT$\",\"HMSUPER\",10 ",
+        "programParams": "\"MINE\",11111.00,22222.00, 33333.00 ,441.00 , 1109.00, \"powerchart.exe\",\"$STATIC_CONTENT$|MPAGES\",\"HMSUPER\",10 ",
         "sourceCodeLocation": "",
         "webServiceUrl": "",
         "cssLocation": "",
