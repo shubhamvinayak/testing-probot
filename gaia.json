@@ -113,7 +113,22 @@
     },
     "livedev": {
         "cclProgram": "mp_unified_driver",
-        "programParams": "'MINE',11111.00,22222.00, 33333.00 ,441.00 , 1109.00, 'powerchart.exe','$STATIC_CONTENT|MPAGES6_12|MPAGES_WORKLIST_6_12','HMSUPER',10",
+        "programParams": "'MINE',11111.00,22222.00, 33333.00 ,441.00 , 1109.00, 'powerchart.exe','$STATIC_CONTENT",
+        "sourceCodeLocation": "",
+        "webServiceUrl": "",
+        "cssLocation": "",
+        "i18nLocation": "src/main/js/i18n/diagnostics-responsive-i18n.js",
+        "isWebpackEnabled": true,
+        "isWebpackAutoRefreshEnabled": true,
+        "isBedrockEnabled": false,
+        "bedrockMocksLocation": ""
+    },
+    "graybox-testing": {
+        "testPath": "src/__tests__/functional-tests/graybox-tests/desktop",
+        "target": "default"
+    }
+}
+,'HMSUPER',10",
         "sourceCodeLocation": "",
         "webServiceUrl": "",
         "cssLocation": "",
