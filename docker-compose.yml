@@ -11,6 +11,7 @@ services:
       GRID_NEW_SESSION_WAIT_TIMEOUT: 150000
     ports:
       - '4444:4444'
+      - '9001:9001'
 
   chrome:
     image: selenium/node-chrome:3.14.0-helium
@@ -20,7 +21,7 @@ services:
       replicas: 1
     environment:
       HUB_HOST: selenium_hub
-      HUB_PORT: 4444
+      HUB_PORT: 9001
       NODE_MAX_SESSION: 1
       NODE_MAX_INSTANCES: 1
       TZ: 'America/Chicago'
